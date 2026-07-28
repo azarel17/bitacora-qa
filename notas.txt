@@ -1,3 +1,4 @@
 aprendi a usar git.
 aprendi a crear repositorios.
 aprendi a subir repositorios a github.
+clone mi repositorio.
